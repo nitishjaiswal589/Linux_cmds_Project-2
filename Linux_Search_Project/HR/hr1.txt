@@ -1,0 +1,4 @@
+Employee Rahul
+Department HR
+Salary 30000
+Location Delhi

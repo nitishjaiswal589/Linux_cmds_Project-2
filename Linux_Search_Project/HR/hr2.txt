@@ -1,0 +1,4 @@
+Employee Aman
+Department HR
+Salary 35000
+Location Jaipur

@@ -1,0 +1,3 @@
+Product Laptop
+Location Delhi
+Sales 100
